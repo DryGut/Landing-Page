@@ -23,6 +23,7 @@ html{
 
 body{
   font-family: "Roboto", sans-serif;
+  background-color: #1e272e;
 }
 
 ul li{
@@ -51,7 +52,7 @@ a:hover{
 }
 
 nav{
-  background: #fff;
+  background: #1e272e;
   display: flex;
   justify-content: space-between;
   align-items: center;
