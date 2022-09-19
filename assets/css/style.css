@@ -166,7 +166,7 @@ nav-link{
 
 .meuslide{
   position: absolute;
-  animation: round 16s infinite;
+  animation: round 6s infinite;
   opacity: 0;
 }
 
@@ -180,7 +180,7 @@ nav-link{
 }
 
 img:nth-child(1){
-  animation-delay: 8s;
+  animation-delay: 2s;
   width: 484px;
   height: 300px;
 }
@@ -190,7 +190,7 @@ img:nth-child(2){
   height: 300px;
 }
 img:nth-child(3){
-  animation-delay: 0s;
+  animation-delay: 6s;
   width: 484px;
   height: 300px;
 }
